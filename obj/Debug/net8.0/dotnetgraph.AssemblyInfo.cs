@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dotnetgraph")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5acf4b85281c88a6b28785e8c74e9475a7bc5601")]
 [assembly: System.Reflection.AssemblyProductAttribute("dotnetgraph")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dotnetgraph")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
