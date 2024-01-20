@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ra5gSo54u3XKv2fuDK78GzEODnLOkHT9L4KXwsnpW8Q=",
+  "Source": "dotnetgraph",
+  "BasePath": "_content/dotnetgraph",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
